@@ -1,1 +1,1 @@
-;hi starts here
+;X86_32 assembly Nasm code
